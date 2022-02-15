@@ -8,8 +8,13 @@ description: 'Slides from a lecture presentation covering the following topics: 
   axiomatic design, system integration, definition of design, constraints, decomposition,
   zigzagging and hierarchy, identical design and equivalent design, full DM of uncoupled
   refrigerator design, analysis, and common mistakes made by designers.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-800-tribology-fall-2004/7956138e737f6cb1e9fb744fcc6c48ef_ch10_axiomatic.pdf
+file: /media/courses/2-800-tribology-fall-2004/7956138e737f6cb1e9fb744fcc6c48ef_ch10_axiomatic.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch10_axiomatic.pdf
 uid: 7956138e-737f-6cb1-e9fb-744fcc6c48ef

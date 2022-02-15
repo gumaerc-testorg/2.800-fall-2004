@@ -9,8 +9,13 @@ description: 'Slides from a lecture presentation covering the following topics: 
   general characteristics of (composites, solid surface), electric double layer, role
   of lubricants, mechanical properties of the surface, image force on dislocations
   near the surface, and thermodynamic analysis of an interface.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-800-tribology-fall-2004/936927ea9e79828ad49171bd14758f6c_ch2_solid_surfac.pdf
+file: /media/courses/2-800-tribology-fall-2004/936927ea9e79828ad49171bd14758f6c_ch2_solid_surfac.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch2_solid_surfac.pdf
 uid: 936927ea-9e79-828a-d491-71bd14758f6c

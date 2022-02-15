@@ -10,8 +10,13 @@ description: 'Slides from a lecture presentation covering the following topics: 
   model), friction at dry sliding interface, friction at macro-scale sliding contacts,
   abrasive wear model, sliding wear model, fretting wear, abrasive wear model, ductility
   vs. abrasive wear rates, and carbide tools cutting 4340 steel.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-800-tribology-fall-2004/970c3615772c953dea1b300e4c6dc981_ch1_trib_intro.pdf
+file: /media/courses/2-800-tribology-fall-2004/970c3615772c953dea1b300e4c6dc981_ch1_trib_intro.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch1_trib_intro.pdf
 uid: 970c3615-772c-953d-ea1b-300e4c6dc981

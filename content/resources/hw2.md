@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set and reading assignment for the week.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-800-tribology-fall-2004/7a4bb7859c426e9d3d8fb36688553fc3_hw2.pdf
+file: /media/courses/2-800-tribology-fall-2004/7a4bb7859c426e9d3d8fb36688553fc3_hw2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw2.pdf
 uid: 7a4bb785-9c42-6e9d-3d8f-b36688553fc3

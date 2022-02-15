@@ -12,8 +12,13 @@ description: 'Slides from a lecture presentation covering the following topics: 
   polymers, single deflected fiber, minimization of wear of composites, wear particles
   of UHMWPE measured with AFM, effect of different sterilization of UHMWPE on its
   wear rate, other treat techniques for low friction and wear.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-800-tribology-fall-2004/c8f3e2b4d912535b6740f4d5321779fe_ch12_polymer.pdf
+file: /media/courses/2-800-tribology-fall-2004/c8f3e2b4d912535b6740f4d5321779fe_ch12_polymer.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch12_polymer.pdf
 uid: c8f3e2b4-d912-535b-6740-f4d5321779fe
