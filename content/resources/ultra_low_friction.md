@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 39aa14b5-b729-5100-e8a4-5367beefbdc2
 resourcetype: Document
 title: ultra_low_friction.pdf
 uid: 53d28bb5-d2fd-eb07-0a85-a4b949fadd52

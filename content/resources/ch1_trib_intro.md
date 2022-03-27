@@ -17,6 +17,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch1_trib_intro.pdf
 uid: 970c3615-772c-953d-ea1b-300e4c6dc981
