@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 ---
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Tribology ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch1_trib_intro))
+Introduction to Tribology ({{< resource_link 970c3615-772c-953d-ea1b-300e4c6dc981 "PDF - 2.0 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Introduction to Tribology ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch1_trib_int
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Tribology (cont.) ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch1_trib_intro))
+Introduction to Tribology (cont.) ({{< resource_link 970c3615-772c-953d-ea1b-300e4c6dc981 "PDF - 2.0 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Introduction to Tribology (cont.) ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch1_
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Chemical and Physical State of the Solid Surface ([PDF]({{< baseurl >}}/resources/ch2_solid_surfac))
+Chemical and Physical State of the Solid Surface ({{< resource_link 936927ea-9e79-828a-d491-71bd14758f6c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Chemical and Physical State of the Solid Surface ([PDF]({{< baseurl >}}/resource
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Friction ([PDF - 1.1 MB]({{< baseurl >}}/resources/ch3_friction))
+Friction ({{< resource_link 39bee0a6-dd75-b805-338d-29c25b8a0810 "PDF - 1.1 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Lab: Friction Measurement
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of Large Plastic Deformation of Elasto-plastic Solids ([PDF]({{< baseurl >}}/resources/ch3b_slip_line_f))
+Analysis of Large Plastic Deformation of Elasto-plastic Solids ({{< resource_link 81e413eb-ea96-7bf5-a4f9-0e35c795cc93 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Analysis of Large Plastic Deformation of Elasto-plastic Solids ([PDF]({{< baseur
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Wear ([PDF]({{< baseurl >}}/resources/ch4a_wear_intro))
+Introduction to Wear ({{< resource_link 82f5d26b-ac44-fb51-22a5-818d56163da5 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Introduction to Wear ([PDF]({{< baseurl >}}/resources/ch4a_wear_intro))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Response of Materials to Surface Traction ([PDF]({{< baseurl >}}/resources/ch4b_surface_t))
+Response of Materials to Surface Traction ({{< resource_link c9178467-3978-3ee3-17b1-02f67aa037eb "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Response of Materials to Surface Traction ([PDF]({{< baseurl >}}/resources/ch4b_
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Wear Mechanisms ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch5_wear_mech))
+Wear Mechanisms ({{< resource_link 49841547-dcdd-c87b-8226-3b982a60486e "PDF - 1.9 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +161,7 @@ Design of Cutting Tools
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Axiomatic Design ([PDF]({{< baseurl >}}/resources/ch10_axiomatic))
+Introduction to Axiomatic Design ({{< resource_link 7956138e-737f-6cb1-e9fb-744fcc6c48ef "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Introduction to Axiomatic Design ([PDF]({{< baseurl >}}/resources/ch10_axiomatic
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Design of Low Friction Surfaces ([PDF]({{< baseurl >}}/resources/ch11_lowfriction))
+Design of Low Friction Surfaces ({{< resource_link b844ec4e-4219-b0e4-196c-d7033c6bfa35 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +179,7 @@ Design of Low Friction Surfaces ([PDF]({{< baseurl >}}/resources/ch11_lowfrictio
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Design of Seals ([PDF]({{< baseurl >}}/resources/ch11b_seal_des))
+Design of Seals ({{< resource_link 605d6910-2d68-f795-01ee-511dae851cf7 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ Design of Seals ([PDF]({{< baseurl >}}/resources/ch11b_seal_des))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Friction and Wear of Polymers and Composites ([PDF - 1.1 MB]({{< baseurl >}}/resources/ch12_polymer))
+Friction and Wear of Polymers and Composites ({{< resource_link c8f3e2b4-d912-535b-6740-f4d5321779fe "PDF - 1.1 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +197,7 @@ Friction and Wear of Polymers and Composites ([PDF - 1.1 MB]({{< baseurl >}}/res
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Solution Wear ([PDF]({{< baseurl >}}/resources/ch13_solution_w))
+Solution Wear ({{< resource_link 078e9e1c-9a66-34c5-9bbf-43ce1faa8562 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Solution Wear ([PDF]({{< baseurl >}}/resources/ch13_solution_w))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Temperature Distribution ([PDF]({{< baseurl >}}/resources/ch14_temp_dist))
+Temperature Distribution ({{< resource_link 7003cc47-fb6e-5462-1646-fc2e05494886 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +215,7 @@ Temperature Distribution ([PDF]({{< baseurl >}}/resources/ch14_temp_dist))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Erosive Wear ([PDF]({{< baseurl >}}/resources/ch15_erosive_w))
+Erosive Wear ({{< resource_link fcfcdf24-f903-68eb-7e28-bcf12b704ab4 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

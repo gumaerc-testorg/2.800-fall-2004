@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 39aa14b5-b729-5100-e8a4-5367beefbdc2
 ---
@@ -16,7 +17,7 @@ These readings are assigned as examples of research publications in the field, a
 
 Lim, S. C., and M. F. Ashby. "Wear-Mechanism Maps." _Acta Metal_ 35, no. 1 (1987): 1-24.
 
-Rha, J. J., S. C. Kwon, J. R. Cho, W. Yim Shon, and N. Saka. "Creation of Ultra-Low Friction and Wear Surfaces for Micro-Devices Using Carbon Films." ([PDF]({{< baseurl >}}/resources/ultra_low_fricti))
+Rha, J. J., S. C. Kwon, J. R. Cho, W. Yim Shon, and N. Saka. "Creation of Ultra-Low Friction and Wear Surfaces for Micro-Devices Using Carbon Films." ({{< resource_link 50ff8be1-227a-e2ab-8bd3-2a6da77a78b4 "PDF" >}})
 
 Suh, N. P., and S. T. Oktay. "Wear Debris Formation and Agglomeration." _Journal of Tribology_ 114 (April 1992): 379-393.
 
