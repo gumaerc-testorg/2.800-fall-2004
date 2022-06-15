@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: The calendar section gives the information about the different topics
+  covered during different lecture sessions and by which lecturer, and it also gives
+  details about the homeworks due dates and term paper due dates.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 5400a006-f3f6-5175-69a4-1f48e724887e
 ---
