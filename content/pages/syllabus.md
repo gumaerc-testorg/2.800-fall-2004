@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  grading criteria, and information about exams, homeworks, and term paper of the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 15b5943f-b5be-d4ae-4673-a46660303eba
 ---
