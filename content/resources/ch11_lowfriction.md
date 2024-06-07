@@ -8,6 +8,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   DP1, design matrix, tribotek electrical connectors, and performance of "woven" power
   connectors.'
 file: /courses/2-800-tribology-fall-2004/b844ec4e4219b0e4196cd7033c6bfa35_ch11_lowfriction.pdf
+file_size: 863984
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

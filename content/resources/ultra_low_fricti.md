@@ -4,6 +4,7 @@ description: 'Text of assigned reading: Rha, J. J., S. C. Kwon, J. R. Cho, W. Yi
   Shon, and N. Saka. "Creation of Ultra-Low Friction and Wear Surfaces for Micro-Devices
   Using Carbon Films."'
 file: /courses/2-800-tribology-fall-2004/50ff8be1227ae2ab8bd32a6da77a78b4_ultra_low_fricti.pdf
+file_size: 187563
 file_type: application/pdf
 learning_resource_types:
 - Readings
