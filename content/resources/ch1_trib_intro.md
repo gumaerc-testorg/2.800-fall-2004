@@ -11,6 +11,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   abrasive wear model, sliding wear model, fretting wear, abrasive wear model, ductility
   vs. abrasive wear rates, and carbide tools cutting 4340 steel.'
 file: /courses/2-800-tribology-fall-2004/970c3615772c953dea1b300e4c6dc981_ch1_trib_intro.pdf
+file_size: 2118613
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

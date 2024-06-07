@@ -6,6 +6,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   region, crack propagation, sliding wear at low speeds, subsurface crack under a
   moving asperity, model of wearing specimen, fretting wear.'
 file: /courses/2-800-tribology-fall-2004/49841547dcddc87b82263b982a60486e_ch5_wear_mech.pdf
+file_size: 2043690
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
