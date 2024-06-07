@@ -6,6 +6,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   of seals for rotating shaft, design concept, design parameters, and design equation
   and design matrix.'
 file: /courses/2-800-tribology-fall-2004/605d69102d68f79501ee511dae851cf7_ch11b_seal_des.pdf
+file_size: 132212
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

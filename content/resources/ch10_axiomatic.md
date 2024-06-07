@@ -9,6 +9,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   zigzagging and hierarchy, identical design and equivalent design, full DM of uncoupled
   refrigerator design, analysis, and common mistakes made by designers.'
 file: /courses/2-800-tribology-fall-2004/7956138e737f6cb1e9fb744fcc6c48ef_ch10_axiomatic.pdf
+file_size: 808908
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
