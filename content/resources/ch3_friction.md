@@ -12,7 +12,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   confined space, friction at polymeric interfaces, structure of some thermoplastics,
   friction coefficient of low density polyethylene, frictional behavior of composites,
   effect of coatings on friction, and conclusions.'
-file: /courses/2-800-tribology-fall-2004/39bee0a6dd75b805338d29c25b8a0810_ch3_friction.pdf
+file: /ol-ocw-studio-app/courses/2-800-tribology-fall-2004/39bee0a6dd75b805338d29c25b8a0810_ch3_friction.pdf
 file_size: 1190040
 file_type: application/pdf
 learning_resource_types:
