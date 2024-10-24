@@ -3,7 +3,7 @@ content_type: resource
 description: 'Slides from a lecture presentation covering the following topics: Erosive
   wear due to solid particle impingement, erosion of ductile materials, and erosion
   of brittle materials.'
-file: /courses/2-800-tribology-fall-2004/fcfcdf24f90368eb7e28bcf12b704ab4_ch15_erosive_w.pdf
+file: /ol-ocw-studio-app/courses/2-800-tribology-fall-2004/fcfcdf24f90368eb7e28bcf12b704ab4_ch15_erosive_w.pdf
 file_size: 131230
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set and reading assignment for the week.
-file: /courses/2-800-tribology-fall-2004/7a4bb7859c426e9d3d8fb36688553fc3_hw2.pdf
+file: /ol-ocw-studio-app/courses/2-800-tribology-fall-2004/7a4bb7859c426e9d3d8fb36688553fc3_hw2.pdf
 file_size: 83021
 file_type: application/pdf
 learning_resource_types:

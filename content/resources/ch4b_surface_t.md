@@ -7,7 +7,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   elastic solid loaded by a elliptical distributed load, contour and variation of
   stress, crack growth of hertzian crack, and sequence of crack formation and growth
   events during loading and unloading.'
-file: /courses/2-800-tribology-fall-2004/c917846739783ee317b102f67aa037eb_ch4b_surface_t.pdf
+file: /ol-ocw-studio-app/courses/2-800-tribology-fall-2004/c917846739783ee317b102f67aa037eb_ch4b_surface_t.pdf
 file_size: 670082
 file_type: application/pdf
 learning_resource_types:
