@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/2-800-tribology-fall-2004/eab0e40531d4f7cde6d78365e83b059c_hw1.pdf
+file: /courses/2-800-tribology-fall-2004/eab0e40531d4f7cde6d78365e83b059c_hw1.pdf
 file_size: 68595
 file_type: application/pdf
 learning_resource_types:
