@@ -8,7 +8,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   cutting, tool wear mechanisms, solution wear, cutting temperature, The Gibbs free
   energy, equilibrium concentration, coating techniques, hardness of oxides, material
   properties, and diffusion wear.'
-file: /ol-ocw-studio-app/courses/2-800-tribology-fall-2004/078e9e1c9a6634c59bbf43ce1faa8562_ch13_solution_w.pdf
+file: /courses/2-800-tribology-fall-2004/078e9e1c9a6634c59bbf43ce1faa8562_ch13_solution_w.pdf
 file_size: 349950
 file_type: application/pdf
 learning_resource_types:
